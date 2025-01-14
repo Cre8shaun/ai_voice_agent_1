@@ -7,3 +7,5 @@ __pycache__/
 
 # Ignore other system files
 .DS_Store
+
+ai_voice_agent_1.git/
