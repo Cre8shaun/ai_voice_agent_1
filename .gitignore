@@ -9,3 +9,6 @@ __pycache__/
 .DS_Store
 
 ai_voice_agent_1.git/
+
+.env
+.aider*
